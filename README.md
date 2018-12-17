@@ -1,2 +1,2 @@
-# dicionario
+# Dicionário
 Descrição de padrões 
